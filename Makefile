@@ -3,4 +3,4 @@ publie:
 	bundle exec jekyll serve
 
 edit:
-	code ../coucheney.github.io/ &
+	code . &
