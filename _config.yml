@@ -83,11 +83,11 @@ author:
   name             : "Pierre Coucheney"
   avatar           : "images/pierre.jpg"
   bio              : "Maître de conférence (Associate professor) at UVSQ in David-lab"
-  location         : "Versailles, France"
+  location         : "45 avenue des Etats-Unis, 78000 Versailles, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "Pierre.Coucheney@uvsq.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/coucheney"
   google_plus      :
   keybase          :
   instagram        :
