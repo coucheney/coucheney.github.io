@@ -30,3 +30,21 @@ h1, h2 {
 section {
   margin-bottom: 3em;
 }
+
+
+.photo-bio {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.photo-bio img.photo {
+  width: 150px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.photo-bio .bio {
+  flex: 1;
+}
+
