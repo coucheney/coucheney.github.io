@@ -48,3 +48,13 @@ section {
   flex: 1;
 }
 
+h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+nav a.active {
+  color: #aa0033;
+  text-decoration: underline;
+}
