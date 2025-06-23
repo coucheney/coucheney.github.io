@@ -4,8 +4,7 @@ Ce dépôt contient le code source de ma page web académique personnelle, hébe
 
 ## 🔗 Accès au site
 
-👉 [https://ton-utilisateur.github.io/nom-du-repo](https://ton-utilisateur.github.io/nom-du-repo)  
-_(Remplace avec l'URL réelle après déploiement)_
+👉 [https://github.com/coucheney/coucheney.github.io.git](https://github.com/coucheney/coucheney.github.io.git)  
 
 ## 📄 Contenu
 
