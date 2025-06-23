@@ -1,4 +1,4 @@
-# Page web académique de Nom Prénom
+# Page web académique de Pierre Coucheney
 
 Ce dépôt contient le code source de ma page web académique personnelle, hébergée via GitHub Pages.
 
